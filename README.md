@@ -1,3 +1,3 @@
 # DataScienceEcosytem
-Upload all screen shotes 
+Upload all screenshots 
 1-Notebook file upload in main.
